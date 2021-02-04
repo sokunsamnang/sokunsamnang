@@ -4,9 +4,9 @@
  <img align="right" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/programmer.gif" width="200px alt="programmergif">
 </p>
 
-- 🔭 I’m currently working at KOOMPI on project KOOMPI Hotspot Mobile App
-- 🌱 I’m currently learning about Flutter
-- 😄 Pronouns: he/him
+- #### 🔭 I’m currently working at KOOMPI on project KOOMPI Hotspot Mobile App
+- #### 🌱 I’m currently learning about Flutter
+- #### 😄 Pronouns: he/him
 
 
 #### Languages and Tools:

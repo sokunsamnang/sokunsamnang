@@ -5,7 +5,7 @@
 </p>
 
 - #### 🔭 I’m currently working at KOOMPI on project KOOMPI Hotspot Mobile App
-- #### 🌱 I’m currently learning about Flutter
+- #### 🌱 I’m currently learning about Flutter and JavaScript
 - #### 😄 Pronouns: he/him
 
 

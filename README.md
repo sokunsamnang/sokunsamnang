@@ -1,7 +1,7 @@
 <h1 align="center">Sour Sdey <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/> I'm Sam Allen. Nice to see you. 🤗:cambodia:</h1>
 
 <p>
- <img align="right" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/programmer.gif" width="200px alt="programmergif">
+ <img align="right" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/programmer.gif" width="100px alt="programmergif">
 </p>
 
 - #### 🔭 Mobile App Developer

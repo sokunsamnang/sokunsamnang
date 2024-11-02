@@ -1,29 +1,39 @@
-<h1 align="center">Sour Sdey <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/> I'm Sam Allen. Nice to see you. 🤗:cambodia:</h1>
-
-<p>
- <img align="right" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/programmer.gif" width="100px alt="programmergif">
+<h1 align='center' style="color: red;">Welcome to My Profile Outlander!👋</h1>
+<div align="center">
+   
+   **Mobile Developer | UI/UX | Web Developer** <br> <br>
+   <a href="">[![visitor](https://visitor-badge.laobi.icu/badge?page_id=alvalens)](https://github.com/alvalens) [![committers.top badge](https://user-badge.committers.top/indonesia_private/Alvalens.svg)](https://user-badge.committers.top/indonesia_private/Alvalens)</a> 
+    
+   
+</div>
+<p align='center'> 
+   
+   <img src="https://github.com/Alvalens/Alvalens/assets/109880628/47a90027-6911-40a2-ac4a-501d9cd3eeee"/>
 </p>
 
-- #### 🔭 Mobile App Developer
-- #### 🌱 Dart/Flutter
-- #### 😄 Pronouns: he/him
 
+### highlight 🔦
+* 😎 My name is **Allen**
+* 🌱 I’m currently learning Next JS, React Native, and Flutter
+* 👨‍💻 My portofolio avalible at: https://allencode.dev
+* 📫 How to reach me sokunsamnang45@gmail.com
 
-#### Languages and Tools:
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" style="max-width:100%;" height="25"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" style="max-width:100%;" height="25"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" style="max-width:100%;" height="25"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" style="max-width:100%;" height="25">
+### About Me 📄
+Hello, outlander! My name is **Samnang**, though you can call me **Allen**. I'm a passionate **full-stack developer** specializing in both **Mobile and Web Development**. Currently, I work at **KOOMPI** while nearing the completion of my **Computer Science** master’s program.
+Fueled by curiosity and ambition, I dive deep into coding, seeing it as the force that shapes our digital world. With my skills in programming as my tools, I'm ready to tackle challenges and create unique, impactful solutions for the digital realm 🌐🚀.
 
-### 📫 Connect with me<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
- 
-<a href="https://twitter.com/shhriar_shafin"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" width="40"></a>
+### Tech Stack 🔥
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)	![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Flutter](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
+### Stats ⚡
+![alvalen's GitHub stats](https://github-readme-stats.vercel.app/api?username=sokunsamnang&hide=issues&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sokunsamnang&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-
---- 
-
-<p align="center">
-   <i>
-     "Dart makes my heart Flutter"
-  </i>
-</p>       
-
----
+### Social 🌐
+<a href="https://www.instagram.com/allencode.dev/">
+   <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-9B0FFF?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sokunsamnang-sam-an/">
+   <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<br>
+<br>

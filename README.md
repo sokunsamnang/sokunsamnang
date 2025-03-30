@@ -6,11 +6,6 @@
     
    
 </div>
-<p align='center'> 
-   
-   <img src="https://github.com/Alvalens/Alvalens/assets/109880628/47a90027-6911-40a2-ac4a-501d9cd3eeee"/>
-</p>
-
 
 ### highlight 🔦
 * 😎 My name is **Allen**

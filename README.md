@@ -15,7 +15,7 @@
 * 😎 My name is **Allen**
 * 🌱 I’m currently learning Next JS, React Native, and Flutter
 * 👨‍💻 My portofolio avalible at: https://allencode.dev
-* 📫 How to reach me sokunsamnang45@gmail.com
+* 📫 How to reach me allencode.dev@icloud.com
 
 ### About Me 📄
 Hello, outlander! My name is **Samnang**, though you can call me **Allen**. I'm a passionate **full-stack developer** specializing in both **Mobile and Web Development**. Currently, I work at **KOOMPI** while nearing the completion of my **Computer Science** master’s program.
